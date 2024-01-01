@@ -1,0 +1,14 @@
+D:\Learning\asp\grokking\bin\Debug\net8.0\grokking.exe
+D:\Learning\asp\grokking\bin\Debug\net8.0\grokking.deps.json
+D:\Learning\asp\grokking\bin\Debug\net8.0\grokking.runtimeconfig.json
+D:\Learning\asp\grokking\bin\Debug\net8.0\grokking.dll
+D:\Learning\asp\grokking\bin\Debug\net8.0\grokking.pdb
+D:\Learning\asp\grokking\obj\Debug\net8.0\grokking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\asp\grokking\obj\Debug\net8.0\grokking.AssemblyInfoInputs.cache
+D:\Learning\asp\grokking\obj\Debug\net8.0\grokking.AssemblyInfo.cs
+D:\Learning\asp\grokking\obj\Debug\net8.0\grokking.csproj.CoreCompileInputs.cache
+D:\Learning\asp\grokking\obj\Debug\net8.0\grokking.dll
+D:\Learning\asp\grokking\obj\Debug\net8.0\refint\grokking.dll
+D:\Learning\asp\grokking\obj\Debug\net8.0\grokking.pdb
+D:\Learning\asp\grokking\obj\Debug\net8.0\grokking.genruntimeconfig.cache
+D:\Learning\asp\grokking\obj\Debug\net8.0\ref\grokking.dll
